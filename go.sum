@@ -1,2 +1,9 @@
+github.com/hhrutter/upspin v0.0.0-20171222025218-7c4ed6dbfe1a h1:IQ6drQV0HXnevsP3mQdc52rX/0geElFQTLet/qhtDYo=
+github.com/hhrutter/upspin v0.0.0-20171222025218-7c4ed6dbfe1a/go.mod h1:YYUaCXS8DEMLZM6/andJ62WPnH/wzc+tqmLP7Jppdq8=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+golang.org/x/text v0.3.2 h1:tW2bmiBqwgJj/UpqtC8EpXEZVYOwU0yG4iWbprSVAcs=
+golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
+upspin.io v0.0.0-20190429152748-8fa1bb72e8fd h1:QJI2uIRRQTln1WZrA2UNw/KJSZkAx1lXajP0MCL1+yk=
+upspin.io v0.0.0-20190429152748-8fa1bb72e8fd/go.mod h1:4hdXTXkMPXxzbiw/sultoifpccn98hChAFvrU19V2ug=
